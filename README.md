@@ -1,2 +1,2 @@
 # pycode
-Python 
+Repositório de códigos Python
